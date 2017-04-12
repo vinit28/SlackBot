@@ -44,7 +44,7 @@ import sys
 
 con = mdb.connect(host = 'localhost', 
                   user = 'root', 
-                  passwd = 'dwdstudent2015', 
+                  passwd = 'DDOIHHH', 
                   charset='utf8', use_unicode=True);
 
 cur = con.cursor(mdb.cursors.DictCursor)
